@@ -1,0 +1,6 @@
+a = input ("Whats your name?")
+b = input ("How old are you?")
+c = input ("Where you live?")
+print("This is" + a)
+print("(S)he is" + b + "years old")
+print("(S)he is from" + c )
